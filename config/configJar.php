@@ -7,7 +7,7 @@ class ClaseConexion{
     //private $host = "192.168.100.21"; //TODO: Variable del servidor  -- conexion en una red lan
 
     private $usuario = "root";//TODO: Variable del usuario
-    private $password = 'root';//TODO: Variable del pwd
+    private $password = '';//TODO: Variable del pwd
     //private $basequinto = 'quinto';//TODO: Variable del base de datos
     private $basejardineria = 'jardineria';//TODO: Variable del base de datos
 
